@@ -3,7 +3,7 @@ Generating a pipeline for automating the workflow involved in generating videos 
 
 
 
-##Example 1
+## Example 1 - (Sound on)
 
 https://user-images.githubusercontent.com/54991131/204832313-eb1130c8-8c9f-4445-a38f-cac2b296fad2.mp4
 
